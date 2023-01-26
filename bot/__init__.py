@@ -1,0 +1,1 @@
+from .BotClass import Bot
